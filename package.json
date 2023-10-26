@@ -1,0 +1,15 @@
+{
+  "name": "omairmir-auto-readme",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "update": "node update-readme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omairmir/omairmir.git"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

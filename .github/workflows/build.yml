@@ -1,0 +1,27 @@
+name: Update README with Quote
+on:
+  schedule:
+    - cron: '0 4 * * *'  # Run daily at 4 AM UTC and 9am GMT+5
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3
+      - name: Use Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18.x"
+      - name: Install node dependencies
+        run: npm install
+      - name: Check for new Quote
+        run: npm run update
+      - name: Commit and push
+        run: |-
+          git diff
+          git config  user.email "omairmir01@gmail.com"
+          git config  user.name "omairmir"
+          git add -A
+          git commit -m "Update Daily Quote" || git commit --allow-empty -m "Empty commit"
+          git push
