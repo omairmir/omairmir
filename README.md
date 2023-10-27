@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
+Always do your best. What you plant now, you will harvest later.
 ```
 <!-- end quote -->
 #
