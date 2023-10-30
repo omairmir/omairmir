@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Goals are the fuel in the furnace of achievement.
+You must welcome change as the rule but not as your ruler.
 ```
 <!-- end quote -->
 #
