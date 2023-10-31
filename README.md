@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-You must welcome change as the rule but not as your ruler.
+We are all inclined to judge ourselves by our ideals; others, by their acts.
 ```
 <!-- end quote -->
 #
