@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-We are all inclined to judge ourselves by our ideals; others, by their acts.
+It is the mark of an educated mind to be able to entertain a thought without accepting it.
 ```
 <!-- end quote -->
 #
