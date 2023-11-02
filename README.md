@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-It is the mark of an educated mind to be able to entertain a thought without accepting it.
+If the shoe doesn't fit, must we change the foot?
 ```
 <!-- end quote -->
 #
