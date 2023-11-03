@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-If the shoe doesn't fit, must we change the foot?
+We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
 ```
 <!-- end quote -->
 #
