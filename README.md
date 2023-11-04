@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
+I allow my intuition to lead my path.
 ```
 <!-- end quote -->
 #
