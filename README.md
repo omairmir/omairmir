@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
+One that desires to excel should endeavor in those things that are in themselves most excellent.
 ```
 <!-- end quote -->
 #
