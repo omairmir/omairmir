@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-One that desires to excel should endeavor in those things that are in themselves most excellent.
+Friendship is like money, easier made than kept.
 ```
 <!-- end quote -->
 #
