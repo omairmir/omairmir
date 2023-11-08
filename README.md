@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Friendship is like money, easier made than kept.
+Commitment is an act, not a word.
 ```
 <!-- end quote -->
 #
