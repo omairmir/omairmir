@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Commitment is an act, not a word.
+A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 ```
 <!-- end quote -->
 #
