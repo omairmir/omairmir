@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
 ```
 <!-- end quote -->
 #
