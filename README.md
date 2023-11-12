@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
+It is good even for old men to learn wisdom.
 ```
 <!-- end quote -->
 #
