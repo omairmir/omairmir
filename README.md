@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-It is good even for old men to learn wisdom.
+Trust your hunches. They're usually based on facts filed away just below the conscious level.
 ```
 <!-- end quote -->
 #
