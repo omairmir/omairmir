@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Know from the rivers in clefts and in crevices: those in small channels flow noisily, the great flow silent. Whatever's not full makes noise. Whatever is full is quiet.
+A true friend is someone who is there for you when he'd rather be anywhere else.
 ```
 <!-- end quote -->
 #
