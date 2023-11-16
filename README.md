@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-A true friend is someone who is there for you when he'd rather be anywhere else.
+Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
 ```
 <!-- end quote -->
 #
