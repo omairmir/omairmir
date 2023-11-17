@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
+Success is getting what you want. Happiness is wanting what you get.
 ```
 <!-- end quote -->
 #
