@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Success is getting what you want. Happiness is wanting what you get.
+Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.
 ```
 <!-- end quote -->
 #
