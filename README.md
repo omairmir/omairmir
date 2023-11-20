@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-God always takes the simplest way.
+I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
 ```
 <!-- end quote -->
 #
