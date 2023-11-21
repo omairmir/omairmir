@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+Don't talk about what you have done or what you are going to do.
 ```
 <!-- end quote -->
 #
