@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Don't talk about what you have done or what you are going to do.
+The truest wisdom is a resolute determination.
 ```
 <!-- end quote -->
 #
