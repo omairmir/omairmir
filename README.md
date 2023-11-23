@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-The truest wisdom is a resolute determination.
+All difficult things have their origin in that which is easy, and great things in that which is small.
 ```
 <!-- end quote -->
 #
