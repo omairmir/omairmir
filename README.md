@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-All difficult things have their origin in that which is easy, and great things in that which is small.
+The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
 ```
 <!-- end quote -->
 #
