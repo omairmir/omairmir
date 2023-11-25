@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+Motivation is the art of getting people to do what you want them to do because they want to do it.
 ```
 <!-- end quote -->
 #
