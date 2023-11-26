@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Motivation is the art of getting people to do what you want them to do because they want to do it.
+The possibilities are numerous once we decide to act and not react.
 ```
 <!-- end quote -->
 #
