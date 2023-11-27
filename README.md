@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-The possibilities are numerous once we decide to act and not react.
+Difficulties are things that show a person what they are.
 ```
 <!-- end quote -->
 #
