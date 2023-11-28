@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Difficulties are things that show a person what they are.
+It has never been my object to record my dreams, just to realize them.
 ```
 <!-- end quote -->
 #
