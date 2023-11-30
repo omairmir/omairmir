@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Important principles may, and must, be inflexible.
+Friendship is an arrangement by which we undertake to exchange small favors for big ones.
 ```
 <!-- end quote -->
 #
