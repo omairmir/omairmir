@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
+We all live with the objective of being happy; our lives are all different and yet the same.
 ```
 <!-- end quote -->
 #
