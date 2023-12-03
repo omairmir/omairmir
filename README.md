@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-We all live with the objective of being happy; our lives are all different and yet the same.
+Train up a fig tree in the way it should go, and when you are old sit under the shade of it.
 ```
 <!-- end quote -->
 #
