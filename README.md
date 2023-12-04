@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Train up a fig tree in the way it should go, and when you are old sit under the shade of it.
+I believe that every person is born with talent.
 ```
 <!-- end quote -->
 #
