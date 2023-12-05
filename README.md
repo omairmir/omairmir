@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-I believe that every person is born with talent.
+Read as you taste fruit or savor wine, or enjoy friendship, love or life.
 ```
 <!-- end quote -->
 #
