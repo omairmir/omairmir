@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Read as you taste fruit or savor wine, or enjoy friendship, love or life.
+The root of suffering is attachment.
 ```
 <!-- end quote -->
 #
