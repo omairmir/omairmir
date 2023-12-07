@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-The root of suffering is attachment.
+If you're changing the world, you're working on important things. You're excited to get up in the morning.
 ```
 <!-- end quote -->
 #
