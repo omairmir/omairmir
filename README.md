@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-It always seems impossible until it's done.
+The thing always happens that you really believe in; and the belief in a thing makes it happen.
 ```
 <!-- end quote -->
 #
