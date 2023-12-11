@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
+Fears are nothing more than a state of mind.
 ```
 <!-- end quote -->
 #
