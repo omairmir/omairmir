@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Fears are nothing more than a state of mind.
+There is only one success - to be able to spend your life in your own way.
 ```
 <!-- end quote -->
 #
