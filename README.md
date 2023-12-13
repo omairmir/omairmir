@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-There is only one success - to be able to spend your life in your own way.
+The more sand that has escaped from the hourglass of our life, the clearer we should see through it.
 ```
 <!-- end quote -->
 #
