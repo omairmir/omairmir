@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.
+Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.
 ```
 <!-- end quote -->
 #
