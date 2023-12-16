@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.
+Dost thou love life? Then do not squander time, for that is the stuff life is made of.
 ```
 <!-- end quote -->
 #
