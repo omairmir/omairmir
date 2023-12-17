@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Dost thou love life? Then do not squander time, for that is the stuff life is made of.
+I love you the more in that I believe you had liked me for my own sake and for nothing else.
 ```
 <!-- end quote -->
 #
