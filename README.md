@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-I love you the more in that I believe you had liked me for my own sake and for nothing else.
+Practice yourself, for heaven's sake in little things, and then proceed to greater.
 ```
 <!-- end quote -->
 #
