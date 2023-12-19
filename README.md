@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Practice yourself, for heaven's sake in little things, and then proceed to greater.
+If you cannot do great things, do small things in a great way.
 ```
 <!-- end quote -->
 #
