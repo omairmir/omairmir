@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-If you cannot do great things, do small things in a great way.
+Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
 ```
 <!-- end quote -->
 #
