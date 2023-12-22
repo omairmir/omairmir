@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-A goal is a dream with a deadline.
+No man was ever wise by chance.
 ```
 <!-- end quote -->
 #
