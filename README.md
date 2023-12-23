@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-No man was ever wise by chance.
+Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
 ```
 <!-- end quote -->
 #
