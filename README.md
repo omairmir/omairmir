@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
+I prefer the folly of enthusiasm to the indifference of wisdom.
 ```
 <!-- end quote -->
 #
