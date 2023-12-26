@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise.
+Don't leave a stone unturned. It's always something, to know you have done the most you could.
 ```
 <!-- end quote -->
 #
