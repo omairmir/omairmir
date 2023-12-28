@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Hell, there are no rules here-- we're trying to accomplish something.
+To be what we are, and to become what we are capable of becoming, is the only end of life.
 ```
 <!-- end quote -->
 #
