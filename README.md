@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Love demands infinitely less than friendship.
+The only person who never makes mistakes is the person who never does anything.
 ```
 <!-- end quote -->
 #
