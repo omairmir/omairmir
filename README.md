@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-The only person who never makes mistakes is the person who never does anything.
+The friendship that can cease has never been real.
 ```
 <!-- end quote -->
 #
