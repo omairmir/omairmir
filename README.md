@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-The friendship that can cease has never been real.
+One secret of success in life is for a man to be ready for his opportunity when it comes.
 ```
 <!-- end quote -->
 #
