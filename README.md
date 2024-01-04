@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-One secret of success in life is for a man to be ready for his opportunity when it comes.
+Never idealize others. They will never live up to your expectations.
 ```
 <!-- end quote -->
 #
