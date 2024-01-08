@@ -1,7 +1,7 @@
 ## Quote of the Day: 
 <!-- start quote -->
 ```diff
-Never idealize others. They will never live up to your expectations.
+If, at first, you do not succeed, call it version 1.0.
 ```
 <!-- end quote -->
 #
