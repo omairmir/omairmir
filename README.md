@@ -6,7 +6,7 @@ If, at first, you do not succeed, call it version 1.0.
 <!-- end quote -->
 #
 <h2 align="left">Hi 👋, I'm Omair Mir</h2>
- <h4 align="left">A passionate frontend developer from Pakistan with over 4 years of experience in both front-end and back-end development. My primary focus is front-end development.. I enjoy turning design concepts into pixel-perfect, user-friendly, and optimized web applications.</h4>
+ <h4 align="left">A passionate web developer from Pakistan with over 4 years of experience in both front-end and back-end development. My primary focus is front-end development.. I enjoy turning design concepts into pixel-perfect, user-friendly, and optimized web applications.</h4>
 
 
 - 🔭 I’m currently working on [Web App](https://www.emoldino.com/)
